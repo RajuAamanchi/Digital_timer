@@ -1,4 +1,4 @@
-### Refer to the image below:
+### ⌛ Digital Timer
 
 <br/>
 <div style="text-align: center;">
